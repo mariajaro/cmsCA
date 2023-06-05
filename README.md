@@ -6,9 +6,9 @@ This is my first project that we worked on during the first year at Noroff. We h
 
 ## Description
 
-Dette er det første prosjektet vi fikk tildelt på Noroff. Prosjektet gikk over to semestre og vi skulle jobbe med å forbedre siden. I den første utkastet skulle vi bare bruke HTML og CSS. Etterhvert  når vi fikk mer kunnskap la vi til JS i prosjektet. 
+This is the first project we were awarded at Noroff. The project spanned two semesters and we were to work on improving the site. In the first draft, we were only going to use HTML and CSS. Gradually, when we gained more knowledge, we added JS to the project.
 
-Per i dag (juni 2023) er ikke siden hundre prosent ferdig. Dette er noe jeg skal fortsette å bygge på. 
+As of today (June 2023), the site is not 100 percent complete. This is something I will continue to build on.
 
 ## Built With
 
